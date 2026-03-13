@@ -1,7 +1,6 @@
 
 
 
-OvisMart
 OvisMart is an online marketplace connecting local & international artisans, sellers, and buyers for unique products (fashion, electronics, accessories, interior decor, cars, jewelry, shoes, beauty, health, food, etc.)
 
     Features
